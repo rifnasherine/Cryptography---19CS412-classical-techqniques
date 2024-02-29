@@ -23,6 +23,8 @@ Implementation using C or pyhton code
 Testing algorithm with different key values. 
 
 ## PROGRAM:
+```
+
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>
@@ -71,6 +73,8 @@ int main() {
     return 0;
 }
 
+```
+
 ## OUTPUT:
 ![caesar](https://github.com/rifnasherine/Cryptography---19CS412-classical-techqniques/assets/119393279/515ccb11-865b-4008-9a49-c7937971c923)
 
@@ -103,6 +107,8 @@ Implementation using C or pyhton code
 Testing algorithm with different key values. 
 
 ## PROGRAM:
+```
+
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
@@ -205,6 +211,8 @@ int main() {
     return 0;
 }
 
+```
+
 ## OUTPUT:
 ![playfair](https://github.com/rifnasherine/Cryptography---19CS412-classical-techqniques/assets/119393279/13b49477-05c6-4d92-80ad-f6512228e89a)
 
@@ -237,6 +245,9 @@ Implementation using C or pyhton code
 Testing algorithm with different key values. 
 
 ## PROGRAM:
+
+```
+
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
@@ -284,6 +295,8 @@ int main(){
     return 0;
 }
 
+```
+
 ## OUTPUT:
 ![hill1](https://github.com/rifnasherine/Cryptography---19CS412-classical-techqniques/assets/119393279/1187ab4f-f9fe-42ce-9cf9-45ef2c76cb99)
 ![hill2](https://github.com/rifnasherine/Cryptography---19CS412-classical-techqniques/assets/119393279/0fd85d0a-eb9e-4c9f-9d9c-97884b908695)
@@ -317,6 +330,8 @@ Implementation using C or pyhton code
 Testing algorithm with different key values. 
 
 ## PROGRAM:
+```
+
 #include <stdio.h>
 #include <conio.h>
 #include <ctype.h>
@@ -381,6 +396,8 @@ void decipher(){
     }
 }
 
+```
+
 ## OUTPUT:
 ![vigenere](https://github.com/rifnasherine/Cryptography---19CS412-classical-techqniques/assets/119393279/a6d84d60-b0c9-483f-877f-5cc0d0a37c6c)
 
@@ -412,6 +429,9 @@ Implementation using C or pyhton code
 Testing algorithm with different key values. 
 
 ## PROGRAM:
+
+```
+
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
@@ -460,6 +480,8 @@ int main(){
 
     return 0;
 }
+
+```
 
 ## OUTPUT:
 ![railfence](https://github.com/rifnasherine/Cryptography---19CS412-classical-techqniques/assets/119393279/7f976361-e00f-4531-a9f2-593bce4c72c2)
