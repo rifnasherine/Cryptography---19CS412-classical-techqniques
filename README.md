@@ -72,6 +72,7 @@ int main(){
 }
 ~~~
 ## OUTPUT:
+![Screenshot 2024-02-29 143232](https://github.com/rifnasherine/Cryptography---19CS412-classical-techqniques/assets/119393279/972a034d-f2fb-4b5d-aa3b-a69b8ab30f97)
 
 ## RESULT:
 The program is executed successfully
